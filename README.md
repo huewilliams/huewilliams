@@ -1,6 +1,8 @@
 ## 🎃Huewilliams  황신우 ![huewilliams](https://user-images.githubusercontent.com/37013834/87556037-2a75c280-c6f1-11ea-915e-aa7f553c37bc.jpg)![tww](https://user-images.githubusercontent.com/37013834/87628035-035bd700-c76b-11ea-96c0-bab13ba7e31b.jpg)![jokermode](https://user-images.githubusercontent.com/37013834/87555954-0c0fc700-c6f1-11ea-927d-0ac999ac16bf.jpg)
 
-**대덕소프트웨어마이스터고등학교 3학년**
+**Java/Spring(boot) Backend Engineer** *대덕소프트웨어마이스터고등학교 3학년*
+<details>
+  <summary>세부 정보 (Details information)</summary>
 
 ### 🏆 Awards
 
@@ -32,3 +34,4 @@
 
 **`2009 3月 ~ 2012 2月` [성남신흥초등학교](http://www.snsh.es.kr/main.php)** / *경기도 성남시 수정구*
 
+</details>
