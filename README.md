@@ -1,8 +1,8 @@
-## ![jokermode](https://user-images.githubusercontent.com/37013834/87555954-0c0fc700-c6f1-11ea-927d-0ac999ac16bf.jpg)Huewilliams 황신우![huewilliams](https://user-images.githubusercontent.com/37013834/87556037-2a75c280-c6f1-11ea-915e-aa7f553c37bc.jpg) 
+## 🎃Huewilliams  황신우 ![huewilliams](https://user-images.githubusercontent.com/37013834/87556037-2a75c280-c6f1-11ea-915e-aa7f553c37bc.jpg)![tww](https://user-images.githubusercontent.com/37013834/87628035-035bd700-c76b-11ea-96c0-bab13ba7e31b.jpg)![jokermode](https://user-images.githubusercontent.com/37013834/87555954-0c0fc700-c6f1-11ea-927d-0ac999ac16bf.jpg)
 
 **대덕소프트웨어마이스터고등학교 3학년**
 
-### [🏆](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal) Awards
+### 🏆 Awards
 
 **`2019 11月`  [STAC (스마틴앱챌린지)](https://tacademy.skplanet.com/front/exhibition/listExhibition.action) 엔터테인먼트부문 최우수상** ([📰](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal) [Saucewich 온라인 신문 기사](https://game.donga.com/93628/?fbclid=IwAR0e3PcBtgC525Ge9hRXka2Fic1xFE1h2Jow3Nvl2A91JHNWJsDk6rJG2fU))
 
@@ -14,7 +14,7 @@
 
 **`2018 4月` [제 4회 하이톤](https://www.facebook.com/highthon/posts/218705695482507/) 대상**
 
-### [📜](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal) History
+### 📜 History
 
 **`Future 2020 11月~` [(주)마이다스아이티](https://www.midasit.com/)** / *경기도 성남시 분당구 판교*
 
