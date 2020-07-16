@@ -4,11 +4,11 @@
 
 ### 🏆 Awards
 
-**`2019 11月`  [STAC (스마틴앱챌린지)](https://tacademy.skplanet.com/front/exhibition/listExhibition.action) 엔터테인먼트부문 최우수상** ([📰](https://apps.timwhitlock.info/emoji/tables/unicode#emoji-modal) [Saucewich 온라인 신문 기사](https://game.donga.com/93628/?fbclid=IwAR0e3PcBtgC525Ge9hRXka2Fic1xFE1h2Jow3Nvl2A91JHNWJsDk6rJG2fU))
+**`2019 11月`  [STAC (스마틴앱챌린지)](https://tacademy.skplanet.com/front/exhibition/listExhibition.action) 엔터테인먼트부문 최우수상** (📰 [Saucewich 온라인 신문 기사](https://game.donga.com/93628/?fbclid=IwAR0e3PcBtgC525Ge9hRXka2Fic1xFE1h2Jow3Nvl2A91JHNWJsDk6rJG2fU))
 
 **`2018 11月` [사회혁신 IF 해커톤](http://hamkke.org/archives/30449) 후원사 특별상**
 
-**`2018 9月` [WSCW 스마트시티 해커톤](https://www.facebook.com/WorldSmartCityWeek/photos/wscw-2018-스마트시티-해커톤더-나은-우리의-생활을-위해-첨단-기술과-도시환경을-융합한-스마트시티-wscw-2018-스마트시티-해커톤-대회/511952699249392/) 우수상**
+**`2018 9月` [WSCW 스마트시티 해커톤](https://www.facebook.com/WorldSmartCityWeek/photos/wscw-2018-스마트시티-해커톤더-나은-우리의-생활을-위해-첨단-기술과-도시환경을-융합한-스마트시티-wscw-2018-스마트시티-해커톤-대회/511952699249392/) 우수상** ( 📰 [수상 온라인 신문 기사](http://www.ikoreanspirit.com/news/articleView.html?idxno=52745) )
 
 **`2018 7月` [카이스트 소나타 캠프](http://gifted.kaist.ac.kr/bbs/board.php?bo_table=notice&wr_id=22) 장려상**
 
