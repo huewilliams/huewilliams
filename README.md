@@ -2,13 +2,15 @@
 
 **Java/Spring(boot) Backend Engineer** *대덕소프트웨어마이스터고등학교 3학년*
 
-* 📫 **How to reach me:** hswspwgod@gmali.com
-* 📚 **Personal wiki:** https://huewilliams.gitbook.io/williams-wiki/
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuewilliams&count_bg=%238A3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hswspwgod@gmail.com)](mailto:hswspwgod@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hughwilliamsinwoo/)](https://www.facebook.com/hughwilliamsinwoo/)
 
-[![huewilliams' github stats](https://github-readme-stats.vercel.app/api?username=huewilliams)](https://github.com/anuraghazra/github-readme-stats)
+[![](http://img.shields.io/badge/wiki-williams.wiki-black?style=flat-square)](https://huewilliams.gitbook.io/williams-wiki/)
+
+[![huewilliams' github stats](https://github-readme-stats.vercel.app/api?username=huewilliams&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huewilliams&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>세부 정보 (Details information)</summary>
+
 
 ### 🏆 Awards
 
