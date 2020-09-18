@@ -5,9 +5,7 @@
 * 📫 **How to reach me:** hswspwgod@gmali.com
 * 📚 **Personal wiki:** https://huewilliams.gitbook.io/williams-wiki/
 
-```
 [![huewilliams' github stats](https://github-readme-stats.vercel.app/api?username=huewilliams)](https://github.com/anuraghazra/github-readme-stats)
-```
 
 <details>
   <summary>세부 정보 (Details information)</summary>
