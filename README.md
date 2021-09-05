@@ -1,6 +1,7 @@
 ## 🎃Huewilliams  황신우  ![huewilliams](https://user-images.githubusercontent.com/37013834/87556037-2a75c280-c6f1-11ea-915e-aa7f553c37bc.jpg)![tww](https://user-images.githubusercontent.com/37013834/87628035-035bd700-c76b-11ea-96c0-bab13ba7e31b.jpg)![jokermode](https://user-images.githubusercontent.com/37013834/87555954-0c0fc700-c6f1-11ea-927d-0ac999ac16bf.jpg)
 
-**Java/Spring(boot) Backend Engineer** *대덕소프트웨어마이스터고등학교 3학년*
+**Frontent Programmer** *(주)마이다스인 프론트엔드 프로그래머*  
+취미로 인문학과 게임 개발 공부하고 있습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuewilliams&count_bg=%238A3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hswspwgod@gmail.com)](mailto:hswspwgod@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hughwilliamsinwoo/)](https://www.facebook.com/hughwilliamsinwoo/)
 
@@ -26,7 +27,7 @@
 
 ### 📜 History
 
-**`Future 2020 11月~` [(주)마이다스아이티](https://www.midasit.com/)** / *경기도 성남시 분당구 판교*
+**`Future 2020 11月~` [(주)마이다스인](https://www.midashri.com/main)** / *경기도 성남시 분당구 판교*
 
 **`Current 2018 3月 ~ now` [대덕소프트웨어마이스터고등학교](http://dsmhs.djsch.kr/main.do)** / *대전광역시 유성구 장동*
 
